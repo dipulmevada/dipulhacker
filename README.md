@@ -1,4 +1,4 @@
-# SpamWa
+# DipulHacker 
 ```
 $ pkg install python
 $ pkg install git
